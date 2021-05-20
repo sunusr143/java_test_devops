@@ -2,26 +2,7 @@
 <html>
 <body>
 
-<p>
-This paragraph
-contains a lot of lines
-in the source code,
-but the browser 
-ignores it.
-</p>
-
-<p>
-This paragraph
-contains      a lot of spaces
-in the source     code,
-but the    browser 
-ignores it.
-</p>
-
-<p>
-gnaehsshs ganesh
-
-</p>
+  <h1>changes applied</h1>
 
 </body>
 </html>
